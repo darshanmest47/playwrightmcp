@@ -1,0 +1,12 @@
+[    5116ms] [ERROR] Failed to load resource: the server responded with a status of 406 () @ https://sonic.fdp.api.flipkart.com/4/data/collector/business:0
+[    5122ms] [ERROR] Failed to load resource: the server responded with a status of 406 () @ https://sonic.fdp.api.flipkart.com/4/data/collector/business:0
+[    5126ms] [ERROR] Access to fetch at 'https://static-assets-web.flixcart.com/www/linchpin/batman-returns/codes.json' from origin 'https://www.flipkart.com' has been blocked by CORS policy: Request header field x-user-agent is not allowed by Access-Control-Allow-Headers in preflight response. @ https://www.flipkart.com/:0
+[    5128ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://static-assets-web.flixcart.com/www/linchpin/batman-returns/codes.json:0
+[    9038ms] [WARNING] Warning: Component with name Placeholderis not available. Returning a fallback View @ https://www.flipkart.com/:1
+[    9145ms] [WARNING] Warning: Component with name RNShimmeringViewis not available. Returning a fallback View @ https://www.flipkart.com/:1
+[    9199ms] [WARNING] Warning: Component with name GifViewis not available. Returning a fallback View @ https://www.flipkart.com/:1
+[    9200ms] [WARNING] Warning: Component with name LiveVideoViewis not available. Returning a fallback View @ https://www.flipkart.com/:1
+[    9207ms] [WARNING] Warning: Component with name HybridConditionTrackerViewis not available. Returning a fallback View @ https://www.flipkart.com/:1
+[    9598ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://www.flipkart.com/:0
+[   10223ms] [LOG] ServiceWorker registration successful with scope:  https://www.flipkart.com/ @ https://www.flipkart.com/:1
+[   10319ms] [LOG] Sync registration successfull for web push Heart beat @ https://www.flipkart.com/:1

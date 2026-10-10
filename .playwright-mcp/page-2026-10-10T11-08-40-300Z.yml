@@ -1,0 +1,267 @@
+- generic [ref=f1e3]:
+  - generic:
+    - complementary [ref=f1e4]:
+      - navigation "Sidepanel" [ref=f1e5]:
+        - generic [ref=f1e6]:
+          - link [ref=f1e7] [cursor=pointer]:
+            - /url: https://www.orangehrm.com/
+            - img "client brand banner" [ref=f1e9]
+          - text: 
+        - generic [ref=f1e10]:
+          - generic [ref=f1e11]:
+            - generic [ref=f1e12]:
+              - textbox "Search" [ref=f1e15]
+              - button "" [ref=f1e16] [cursor=pointer]
+            - separator [ref=f1e18]
+          - list [ref=f1e19]:
+            - listitem [ref=f1e20]:
+              - link "Admin" [ref=f1e21] [cursor=pointer]:
+                - /url: /web/index.php/admin/viewAdminModule
+            - listitem [ref=f1e25]:
+              - link "PIM" [ref=f1e26] [cursor=pointer]:
+                - /url: /web/index.php/pim/viewPimModule
+            - listitem [ref=f1e41]:
+              - link "Leave" [ref=f1e42] [cursor=pointer]:
+                - /url: /web/index.php/leave/viewLeaveModule
+            - listitem [ref=f1e46]:
+              - link "Time" [ref=f1e47] [cursor=pointer]:
+                - /url: /web/index.php/time/viewTimeModule
+            - listitem [ref=f1e54]:
+              - link "Recruitment" [ref=f1e55] [cursor=pointer]:
+                - /url: /web/index.php/recruitment/viewRecruitmentModule
+            - listitem [ref=f1e62]:
+              - link "My Info" [ref=f1e63] [cursor=pointer]:
+                - /url: /web/index.php/pim/viewMyDetails
+            - listitem [ref=f1e70]:
+              - link "Performance" [ref=f1e71] [cursor=pointer]:
+                - /url: /web/index.php/performance/viewPerformanceModule
+            - listitem [ref=f1e80]:
+              - link "Dashboard" [ref=f1e81] [cursor=pointer]:
+                - /url: /web/index.php/dashboard/index
+            - listitem [ref=f1e85]:
+              - link "Directory" [ref=f1e86] [cursor=pointer]:
+                - /url: /web/index.php/directory/viewDirectory
+            - listitem [ref=f1e90]:
+              - link "Maintenance" [ref=f1e91] [cursor=pointer]:
+                - /url: /web/index.php/maintenance/viewMaintenanceModule
+            - listitem [ref=f1e96]:
+              - link "Claim" [ref=f1e97] [cursor=pointer]:
+                - /url: /web/index.php/claim/viewClaimModule
+            - listitem [ref=f1e105]:
+              - link "Buzz" [ref=f1e106] [cursor=pointer]:
+                - /url: /web/index.php/buzz/viewBuzz
+    - banner [ref=f1e110]:
+      - generic [ref=f1e111]:
+        - generic [ref=f1e112]:
+          - text: 
+          - heading "Dashboard" [level=6] [ref=f1e114]
+        - link [ref=f1e116]:
+          - /url: https://orangehrm.com/open-source/upgrade-to-advanced
+          - button "Upgrade" [ref=f1e117] [cursor=pointer]
+        - list [ref=f1e123]:
+          - listitem [ref=f1e124]:
+            - generic [ref=f1e125] [cursor=pointer]:
+              - img "profile picture" [ref=f1e126]
+              - paragraph [ref=f1e127]: Alex Morgan
+              - generic [ref=f1e128]: 
+      - navigation "Topbar Menu" [ref=f1e130]:
+        - list [ref=f1e131]:
+          - button "" [ref=f1e133] [cursor=pointer]
+  - generic [ref=f1e135]:
+    - generic [ref=f1e137]:
+      - generic [ref=f1e139]:
+        - generic [ref=f1e141]:
+          - generic [ref=f1e142]: 
+          - paragraph [ref=f1e143]: Time at Work
+        - separator [ref=f1e144]
+        - generic [ref=f1e146]:
+          - generic [ref=f1e147]:
+            - img "profile picture" [ref=f1e149]
+            - generic [ref=f1e150]:
+              - paragraph [ref=f1e151]: Punched In
+              - paragraph [ref=f1e152]: "Punched In: Today at 09:15 AM (GMT 0)"
+          - generic [ref=f1e153]:
+            - generic [ref=f1e154]: 1h 53m Today
+            - button "" [ref=f1e155] [cursor=pointer]
+          - separator [ref=f1e157]
+          - generic [ref=f1e158]:
+            - generic [ref=f1e159]:
+              - paragraph [ref=f1e160]: This Week
+              - paragraph [ref=f1e161]: Oct 05 - Oct 11
+            - generic [ref=f1e162]:
+              - generic [ref=f1e163]: 
+              - paragraph [ref=f1e164]: 0h 0m
+      - generic [ref=f1e168]:
+        - generic [ref=f1e170]:
+          - generic [ref=f1e171]: 
+          - paragraph [ref=f1e172]: My Actions
+        - separator [ref=f1e173]
+        - generic [ref=f1e175]:
+          - generic [ref=f1e176]:
+            - button [ref=f1e177] [cursor=pointer]
+            - paragraph [ref=f1e183] [cursor=pointer]: (1) Pending Self Review
+          - generic [ref=f1e184]:
+            - button [ref=f1e185] [cursor=pointer]
+            - paragraph [ref=f1e194] [cursor=pointer]: (1) Candidate to Interview
+      - generic [ref=f1e196]:
+        - generic [ref=f1e198]:
+          - generic [ref=f1e199]: 
+          - paragraph [ref=f1e200]: Quick Launch
+        - separator [ref=f1e201]
+        - generic [ref=f1e203]:
+          - generic [ref=f1e204]:
+            - button "Assign Leave" [ref=f1e205] [cursor=pointer]
+            - generic "Assign Leave" [ref=f1e208]:
+              - paragraph [ref=f1e209]: Assign Leave
+          - generic [ref=f1e210]:
+            - button "Leave List" [ref=f1e211] [cursor=pointer]
+            - generic "Leave List" [ref=f1e218]:
+              - paragraph [ref=f1e219]: Leave List
+          - generic [ref=f1e220]:
+            - button "Timesheets" [ref=f1e221] [cursor=pointer]
+            - generic "Timesheets" [ref=f1e227]:
+              - paragraph [ref=f1e228]: Timesheets
+          - generic [ref=f1e229]:
+            - button "Apply Leave" [ref=f1e230] [cursor=pointer]
+            - generic "Apply Leave" [ref=f1e233]:
+              - paragraph [ref=f1e234]: Apply Leave
+          - generic [ref=f1e235]:
+            - button "My Leave" [ref=f1e236] [cursor=pointer]
+            - generic "My Leave" [ref=f1e241]:
+              - paragraph [ref=f1e242]: My Leave
+          - generic [ref=f1e243]:
+            - button "My Timesheet" [ref=f1e244] [cursor=pointer]
+            - generic "My Timesheet" [ref=f1e247]:
+              - paragraph [ref=f1e248]: My Timesheet
+      - generic [ref=f1e250]:
+        - generic [ref=f1e252]:
+          - generic [ref=f1e253]: 
+          - paragraph [ref=f1e254]: Buzz Latest Posts
+        - separator [ref=f1e255]
+        - generic [ref=f1e293]:
+          - generic [ref=f1e294]:
+            - generic [ref=f1e295] [cursor=pointer]:
+              - img "profile picture" [ref=f1e297]
+              - generic [ref=f1e298]:
+                - paragraph [ref=f1e299]: Alex J Morgan
+                - paragraph [ref=f1e300]: 2026-10-10 04:15 PM
+            - separator [ref=f1e301]
+            - paragraph [ref=f1e302]: Hi Hello
+          - generic [ref=f1e303]:
+            - generic [ref=f1e304] [cursor=pointer]:
+              - img "profile picture" [ref=f1e306]
+              - generic [ref=f1e307]:
+                - paragraph [ref=f1e308]: Alex J Morgan
+                - paragraph [ref=f1e309]: 2026-10-10 04:00 PM
+            - separator [ref=f1e310]
+            - iframe [ref=f1e312]:
+              - generic [ref=f2e1]:
+                - generic "YouTube Video Player" [ref=f2e3]
+                - generic [ref=f2e5]:
+                  - generic:
+                    - generic:
+                      - generic [ref=f2e6] [cursor=pointer]
+                      - button "Play video" [ref=f2e10] [cursor=pointer]
+                      - button "Hide player controls" [ref=f2e12] [cursor=pointer]
+                      - generic [ref=f2e19]:
+                        - generic [ref=f2e20]:
+                          - link "Israeli Spy Who Almost Became Syria's President | Nitish Rajput" [ref=f2e21] [cursor=pointer]:
+                            - /url: https://www.youtube.com/watch?v=MgBZpKV3AMM
+                          - link "Nitish Rajput" [ref=f2e22] [cursor=pointer]:
+                            - /url: /channel/UC6WzPg6yxF9dQx2_O6R4lww
+                        - generic [ref=f2e24]:
+                          - button [ref=f2e25] [cursor=pointer]
+                          - generic [ref=f2e27]:
+                            - generic: Nitish Rajput
+                            - generic: 8.63M subscribers
+          - generic [ref=f1e313]:
+            - generic [ref=f1e314] [cursor=pointer]:
+              - img "profile picture" [ref=f1e316]
+              - generic [ref=f1e317]:
+                - paragraph [ref=f1e318]: Alex J Morgan
+                - paragraph [ref=f1e319]: 2026-10-10 03:57 PM
+            - separator [ref=f1e320]
+            - iframe [ref=f1e322]:
+              - generic [ref=f3e1]:
+                - generic "YouTube Video Player" [ref=f3e3]
+                - generic [ref=f3e5]:
+                  - generic:
+                    - generic:
+                      - generic [ref=f3e6] [cursor=pointer]
+                      - button "Play video" [ref=f3e10] [cursor=pointer]
+                      - button "Hide player controls" [ref=f3e12] [cursor=pointer]
+          - generic [ref=f1e323]:
+            - generic [ref=f1e324] [cursor=pointer]:
+              - img "profile picture" [ref=f1e326]
+              - generic [ref=f1e327]:
+                - paragraph [ref=f1e328]: Alex J Morgan
+                - paragraph [ref=f1e329]: 2026-10-10 03:51 PM
+            - separator [ref=f1e330]
+            - iframe [ref=f1e332]:
+              - generic [ref=f4e1]:
+                - generic "YouTube Video Player" [ref=f4e3]
+                - generic [ref=f4e5]:
+                  - generic:
+                    - generic:
+                      - generic [ref=f4e6] [cursor=pointer]
+                      - button "Play video" [ref=f4e10] [cursor=pointer]
+                      - button "Hide player controls" [ref=f4e12] [cursor=pointer]
+          - generic [ref=f1e333]:
+            - generic [ref=f1e334] [cursor=pointer]:
+              - img "profile picture" [ref=f1e336]
+              - generic [ref=f1e337]:
+                - paragraph [ref=f1e338]: Alex J Morgan
+                - paragraph [ref=f1e339]: 2026-10-10 03:51 PM
+            - separator [ref=f1e340]
+            - iframe [ref=f1e342]:
+              - generic [ref=f5e1]:
+                - generic "YouTube Video Player" [ref=f5e3]
+                - generic [ref=f5e5]:
+                  - generic:
+                    - generic:
+                      - generic [ref=f5e6] [cursor=pointer]
+                      - button "Play video" [ref=f5e10] [cursor=pointer]
+                      - button "Hide player controls" [ref=f5e12] [cursor=pointer]
+      - generic [ref=f1e259]:
+        - generic [ref=f1e260]:
+          - paragraph [ref=f1e265]: Employees on Leave Today
+          - generic [ref=f1e266] [cursor=pointer]: 
+        - separator [ref=f1e267]
+        - generic [ref=f1e344]:
+          - img "No Content" [ref=f1e345]
+          - paragraph [ref=f1e346]: No Employees are on Leave Today
+      - generic [ref=f1e271]:
+        - generic [ref=f1e273]:
+          - generic [ref=f1e274]: 
+          - paragraph [ref=f1e275]: Employee Distribution by Sub Unit
+        - separator [ref=f1e276]
+        - list [ref=f1e351]:
+          - listitem [ref=f1e352] [cursor=pointer]:
+            - generic "Engineering" [ref=f1e354]
+          - listitem [ref=f1e355] [cursor=pointer]:
+            - generic "Human Resources" [ref=f1e357]
+          - listitem [ref=f1e358] [cursor=pointer]:
+            - generic "Administration" [ref=f1e360]
+          - listitem [ref=f1e361] [cursor=pointer]:
+            - generic "Client Services" [ref=f1e363]
+          - listitem [ref=f1e364] [cursor=pointer]:
+            - generic "Unassigned" [ref=f1e366]
+      - generic [ref=f1e280]:
+        - generic [ref=f1e282]:
+          - generic [ref=f1e283]: 
+          - paragraph [ref=f1e284]: Employee Distribution by Location
+        - separator [ref=f1e285]
+        - list [ref=f1e371]:
+          - listitem [ref=f1e372] [cursor=pointer]:
+            - generic "Texas R&D" [ref=f1e374]
+          - listitem [ref=f1e375] [cursor=pointer]:
+            - generic "New York Sales Office" [ref=f1e377]
+          - listitem [ref=f1e378] [cursor=pointer]:
+            - generic "Unassigned" [ref=f1e380]
+    - generic [ref=f1e288]:
+      - paragraph [ref=f1e289]: OrangeHRM OS 5.9
+      - paragraph [ref=f1e290]:
+        - text: © 2005 - 2026
+        - link "OrangeHRM, Inc" [ref=f1e291] [cursor=pointer]:
+          - /url: http://www.orangehrm.com
+        - text: . All rights reserved.

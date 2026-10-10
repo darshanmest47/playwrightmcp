@@ -1,0 +1,30 @@
+Scenario : Verification of orange hrm login 
+
+1) Navigate to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2) Enter username Admin
+3)Enter password admin123
+4) Click on Login button
+
+Result : User should be successfully logged in and user should be able to see
+Dashboard option
+
+
+
+
+Scenario : Verification of logout functionality 
+
+1) Navigate to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2) Enter username Admin
+3)Enter password admin123
+4) Click on Login button
+5) User is able to see PIM option 
+6) User clicks on PIM option
+7) User is able to see Employee Information text 
+8) User clicks on Employment Status dropdown
+9) User clicks on Full-Time Contract option
+10) User should be able to see Last Name as Harmony
+11) User should be able to see Sub Unit as Quality Assurance
+12) User clicks on Logout option 
+
+Result: User should be logged out successfully and User should be able to see Login text
+
